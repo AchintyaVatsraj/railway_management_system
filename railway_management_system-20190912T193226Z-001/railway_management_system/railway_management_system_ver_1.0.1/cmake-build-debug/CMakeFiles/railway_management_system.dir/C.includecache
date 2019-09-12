@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/ClionProjects/railway_management_system/main.c
+stdio.h
+-
+stdlib.h
+-
+process.h
+-
+math.h
+-
+conio.h
+-
+string.h
+-
+float.h
+-
+ncurses.h
+E:/ClionProjects/railway_management_system/ncurses.h
+
+E:/ClionProjects/railway_management_system/ncurses.h
+

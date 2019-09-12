@@ -1,0 +1,14 @@
+101
+9:16 AM
+10:36 AM
+Patna Jn
+Bangalore
+2
+
+102
+9:16 PM
+10:36 AM
+kolkata Jn
+Bangalore
+2
+
